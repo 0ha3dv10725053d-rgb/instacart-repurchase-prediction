@@ -11,7 +11,19 @@
 - order_products_train 項目としては前ファイルと同様
 - order オーダーid、ユーザーid、evel_set、ユーザーごとの注文階数、曜日 オーダーhour_of_day、前購入からの経過日数
 
+# 1/20
+- データのインポート
 
-#　1/20実施予定
-- データの前処理
-- SQLの集計
+# 1/21 
+- AM products.department.join,priorの結合
+- PM データを基に仮説形成
+
+# 1/22
+- PM train
+
+# 1/25
+-　機械学習の完成
+
+
+
+
